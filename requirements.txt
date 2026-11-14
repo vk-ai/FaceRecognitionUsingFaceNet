@@ -52,7 +52,7 @@ tensorflow==1.13.2
 tensorflow-estimator==1.13.0
 termcolor==1.1.0
 Theano==1.0.4
-tornado==6.0.3
+tornado==6.6.1
 traitlets==4.3.3
 wcwidth==0.1.7
 webencodings==0.5.1
